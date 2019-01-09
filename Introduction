@@ -1,0 +1,7 @@
+vSphere Automation SDK for python
+
+vSphere Automation SDKs Overview
+The vSphere Automation API provices a unified programming interface to vSphere Automation services that you can use via SDK's
+
+vSphere Automation API --> SOA in the VE --> vSphere Automation Endpoint
+vSphere Automation API client applications communicate with services on the Platform Services Controller and vCenter Server.
